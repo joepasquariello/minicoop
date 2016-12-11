@@ -21,8 +21,8 @@
 * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 * THE SOFTWARE.
 ***********************************************************************************/
-#ifndef ZILCH_h
-#define ZILCH_h
+#if ( !defined( __MINICOOP_H_ ) )
+#define __MINICOOP_H_
 
 #if( !defined( TEENSYDUINO ) )
 #error "Teensy 3.x & Teensy lc Only!!!"
